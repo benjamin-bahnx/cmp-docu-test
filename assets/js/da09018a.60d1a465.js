@@ -1,0 +1,1 @@
+(self.webpackChunkcmp_docu_test=self.webpackChunkcmp_docu_test||[]).push([[299],{6923:function(c){"use strict";c.exports=JSON.parse('{"allTagsPath":"/cmp-docu-test/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/cmp-docu-test/blog/tags/facebook"}')}}]);

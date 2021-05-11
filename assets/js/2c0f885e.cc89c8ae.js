@@ -1,0 +1,1 @@
+(self.webpackChunkcmp_docu_test=self.webpackChunkcmp_docu_test||[]).push([[666],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/cmp-docu-test/blog/welcome"},{"title":"Hello","permalink":"/cmp-docu-test/blog/hello-world"},{"title":"Hola","permalink":"/cmp-docu-test/blog/hola"}]}')}}]);

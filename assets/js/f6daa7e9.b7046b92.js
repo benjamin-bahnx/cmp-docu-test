@@ -1,0 +1,1 @@
+(self.webpackChunkcmp_docu_test=self.webpackChunkcmp_docu_test||[]).push([[560],{5508:function(e){"use strict";e.exports=JSON.parse('{"permalink":"/cmp-docu-test/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
